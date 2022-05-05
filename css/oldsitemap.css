@@ -1,0 +1,59 @@
+.arrow lottie-player{
+    margin: 10px auto;
+}
+.section{
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    padding: 10px 0;
+    border: 1px rgb(199, 199, 199) solid;
+    border-radius: 15px;
+}
+.home-section{
+    background: rgb(225, 246, 252);
+    margin-top: 80px;
+}
+.section h2{
+    display: inline-block;
+    margin: 0;
+}
+.section h2 a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px #000 solid;
+    border-radius: 15px;
+    color: #000;
+    background: rgb(255, 255, 255);
+}
+.section h2 a:hover{
+    background: rgb(216, 216, 216);
+    transition-duration: 0.5s;
+}
+.header-sction{
+    background: rgb(255, 221, 221);
+    margin: 0 auto;
+    justify-content: center;
+}
+.header-sction h2{
+    font-size:1.3rem ;
+    margin-bottom: 10px;
+}
+h1{
+    color: rgb(119, 119, 119);
+    margin-bottom: 20px;
+}
+.header-in-section{
+    margin-top: 50px;
+    background: rgb(221, 255, 223);
+}
+.header-in-section h2{
+    font-size: 1.2rem;
+    border-radius: 15px;
+    border: 2px #000 solid;
+    margin-bottom: 10px;
+}
+.header-in-section h2 a{
+    border: none;
+    width: 100%;
+}
